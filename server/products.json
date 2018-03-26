@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "FENTY BEAUTY BY RIHANNA",
+      "avatar": "https://www.sephora.com/productimages/sku/s1925486-main-grid@2x.jpg",
+      "price": 42.00,
+      "rating": 4.1,
+      "desc": "Pro Filt'r Soft Matte Longwear Foundation - A soft matte, long-wear foundation with buildable, medium-to-full coverage, in a boundary-breaking range of shades.",
+      "category": "Foundation",
+      "isLove": true
+    },
+    {
+      "id": 2,
+      "title": "HUDA BEAUTY",
+      "avatar":"https://www.sephora.com/productimages/sku/s2001774-main-grid@2x.jpg",
+      "price": 52.00,
+      "rating": 3.7,
+      "desc": "#FauxFilter Foundation - A full-coverage cream foundation that visibly conceals blemishes and imperfections, for a filter-like finish.",
+      "category": "Foundation",
+      "isLove": false
+    },
+    {
+      "id": 3,
+      "title": "MAKE UP FOR EVER",
+      "avatar":"https://www.sephora.com/productimages/sku/s1708957-main-grid@2x.jpg",
+      "price": 52.00,
+      "rating": 3.9,
+      "desc": "Ultra HD Invisible Cover Foundation - A game-changing, top-selling foundation with buildable to medium coverage, available in a diverse range of 40 shades.",
+      "category": "Foundation",
+      "isLove": true
+    },
+    {
+      "id": 4,
+      "title": "ESTÉE LAUDER",
+      "avatar": "https://www.sephora.com/productimages/sku/s1465327-main-grid@2x.jpg",
+      "price": 48.00,
+      "rating": 4.4,
+      "desc": "Double Wear Stay-in-Place Makeup - A 24-hour, flawless foundation that stays looking fresh and natural through heat, humidity, and nonstop activity.",
+      "category": "Foundation",
+      "isLove": true
+    },
+    {
+      "id": 5,
+      "title": "KAT VON D",
+      "avatar": "https://www.sephora.com/productimages/sku/s1177567-main-grid@2x.jpg",
+      "price": 25.00,
+      "rating": 4.2,
+      "desc": "Tattoo Liner - A liquid eyeliner with an innovative brush tip for effortless, precise application. ",
+      "category": "Eyelinear",
+      "isLove": false
+    },
+    {
+      "id": 6,
+      "title": "MARC JACOBS BEAUTY",
+      "avatar": "https://www.sephora.com/productimages/sku/s1501311-main-grid@2x.jpg",
+      "price": 31.00,
+      "rating": 4.3,
+      "desc": "Highliner Gel Eye Crayon Eyeliner - A gel pot eyeliner in a crayon that delivers intense color and 12-hour waterproof wear and amazing glide in shimmer and matte finishes.",
+      "category": "Eyeliner",
+      "isLove": false
+    },
+    {
+      "id": 7,
+      "title": "STILA",
+      "avatar": "https://www.sephora.com/productimages/sku/s1221084-main-grid@2x.jpg",
+      "price": 29.00,
+      "rating": 4.4,
+      "desc": "Stay All Day® Waterproof Liquid Eye Liner - An easy-application, waterproof liquid liner that stays on all day and night.",
+      "category": "Eyeliner",
+      "isLove": true
+    },
+    {
+      "id": 8,
+      "title": "TOO FACED",
+      "avatar": "https://www.sephora.com/productimages/sku/s1533439-main-grid@2x.jpg",
+      "price": 30.00,
+      "rating": 3.8,
+      "desc": "Better Than Sex Mascara - An intensely black, volumizing mascara with an hourglass-shaped brush that separates, coats, and curls each lash to voluptuous perfection.",
+      "category": "Mascara",
+      "isLove": false
+    },
+    {
+      "id": 9,
+      "title": "BENEFIT COSMETICS",
+      "avatar": "https://www.sephora.com/productimages/sku/s1343938-main-grid@2x.jpg",
+      "price": 32.00,
+      "rating": 4.2,
+      "desc": "They’re Real! Lengthening & Volumizing Mascara - A lengthening mascara that curls, volumizes, lifts, and separates lashes for an 'out-of-here' look—now available in three vibrant shades.",
+      "category": "Mascara",
+      "isLove": true
+    },
+    {
+      "id": 10,
+      "title": "ANASTASIA BEVERLY HILLS",
+      "avatar": "https://www.sephora.com/productimages/sku/s2036481-main-grid@2x.jpg",
+      "price": 55.00,
+      "rating": 4.8,
+      "desc": "Soft Glam Eyeshadow Palette - An everyday to night palette with 14 shades, including essential mattes and glam shimmer finishes.",
+      "category": "Eyeshadow",
+      "isLove": false
+    },
+    {
+      "id": 11,
+      "title": "URBAN DECAY",
+      "avatar": "https://www.sephora.com/productimages/sku/s1960947-main-grid@2x.jpg",
+      "price": 66.00,
+      "rating": 4.4,
+      "desc": "Naked Palette Collection - A collection of four cult-favorite palettes that started a revolution.",
+      "category": "Eyeshadow",
+      "isLove": false
+    },
+    {
+      "id": 12,
+      "title": "HUDA BEAUTY",
+      "avatar": "https://www.sephora.com/productimages/sku/s1992445-main-grid@2x.jpg",
+      "price": 85.00,
+      "rating": 4.6,
+      "desc": "Desert Dusk Eyeshadow Palette - A dynamic eyeshadow palette with 18 shades in four unique textures: one dazzling glitter, eight creamy mattes, six shimmering pearl shades, and three duo-chrome toppers.",
+      "category": "Eyeshadow",
+      "isLove": true
+    },
+    {
+      "id": 13,
+      "title": "NARS",
+      "avatar": "https://www.sephora.com/productimages/sku/s2015980-main-grid@2x.jpg",
+      "price": 74.00,
+      "rating": 4.6,
+      "desc": "NARSissist Wanted Eyeshadow Palette - A lust-worthy, limited-edition palette of 12 high-impact shadows with a new pure pigment formula for endless eye looks.",
+      "category": "Eyeshadow",
+      "isLove": false
+    },
+    {
+      "id": 14,
+      "title": "ANASTASIA BEVERLY HILLS",
+      "avatar": "https://www.sephora.com/productimages/sku/s1820406-main-grid@2x.jpg",
+      "price": 55.00,
+      "rating": 4.8,
+      "desc": "Modern Renaissance Eye Shadow Palette - An essential eyeshadow collection with 14 shades in neutral to berry tones.",
+      "category": "Eyeshadow",
+      "isLove": true
+    },
+    {
+      "id": 15,
+      "title": "NARS",
+      "avatar": "https://www.sephora.com/productimages/sku/s1478403-main-grid@2x.jpg",
+      "price": 37.00,
+      "rating": 4.3,
+      "desc": "Radiant Creamy Concealer - An award-winning concealer that provides medium-to-full, buildable coverage and corrects, contours, highlights, and perfects.",
+      "category": "Concealer",
+      "isLove": true
+    },
+    {
+      "id": 16,
+      "title": "FENTY BEAUTY BY RIHANNA",
+      "avatar": "https://www.sephora.com/productimages/sku/s1925841-main-grid@2x.jpg",
+      "price": 67.00,
+      "rating": 4.2,
+      "desc": "Match Stix Trio - A magnetized trio of long-wear, light-as-air makeup sticks curated by skin tone, with two Match Stix Matte Skinsticks to conceal and contour, and one Match Stix Shimmer Skinstick to highlight.",
+      "category": "Concealer",
+      "isLove": false
+    },
+    {
+      "id": 17,
+      "title": "PAT MCGRATH LABS",
+      "avatar": "https://www.sephora.com/productimages/sku/s2012748-main-grid@2x.jpg",
+      "price": 52.00,
+      "rating": 4.4,
+      "desc": "MatteTrance™ Lipstick - A richly pigmented lipstick that adorns lips in a lightweight veil of opaque color for a modern, matte finish.",
+      "category": "Lipstick",
+      "isLove": true
+    },
+    {
+      "id": 18,
+      "title": "KAT VON D",
+      "avatar": "https://www.sephora.com/productimages/sku/s1890623-main-grid@2x.jpg",
+      "price": 24.00,
+      "rating": 4.3,
+      "desc": "Everlasting Liquid Lipstick - A long-wear, high-pigment liquid lipstick with a smooth, matte finish and all-day, lightweight comfort.",
+      "category": "Lipstick",
+      "isLove": true
+    },
+    {
+      "id": 19,
+      "title": "GIORGIO ARMANI BEAUTY",
+      "avatar": "https://www.sephora.com/productimages/sku/s1441583-main-grid@2x.jpg",
+      "price": 44.00,
+      "rating": 4.3,
+      "desc": "Lip Maestro - A velvety-soft, matte lip stain.",
+      "category": "Lipstick",
+      "isLove": false
+    },
+    {
+      "id": 20,
+      "title": "YVES SAINT LAURENT",
+      "avatar": "https://www.sephora.com/productimages/sku/s1969658-main-grid@2x.jpg",
+      "price": 43.00,
+      "rating": 4.4,
+      "desc": "Tatouage Couture Liquid Matte Lip Stain - A lightweight lip stain with a revolutionary formula for ultra-matte, high impact color and a lightweight, naked-lip feel.",
+      "category": "Lipstick",
+      "isLove": true
+    },
+    {
+      "id": 21,
+      "title": "GIVENCHY",
+      "avatar": "https://www.sephora.com/productimages/sku/s2042695-main-grid@2x.jpg",
+      "price": 44.00,
+      "rating": 4.5,
+      "desc": "TLe Rouge Lipstick - A lipstick, in matte and satin finishes, that's encased in genuine leather.",
+      "category": "Lipstick",
+      "isLove": false
+    }
+  ]
+}

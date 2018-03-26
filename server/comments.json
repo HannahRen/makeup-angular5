@@ -1,0 +1,244 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "timestamp": "Sep 17 2017",
+      "user": "Applejaxx85",
+      "rating": 5,
+      "content": "Seriously one of the prettiest foundations I've tried. It is similar to Dior forever flawless perfection foundation but a little more sheer. It's like your skin, but better. Love it!"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "timestamp": "Nov 2 2017",
+      "user": "itsVickyAlesia",
+      "rating": 4,
+      "content": "I have combo - mostly dry skin. When I first used this, I did see the foundation becoming 'patchy' on the dry areas. The product is so fluid and the coverage is amazing. Recommendation for dry skin - I'd highly recommend the Clinque Moisture Surge as a moisturizer followed by the Two Face Hangover Primer. This combo works great for my skin and lets the foundation do it's job properly. "
+    },
+    {
+      "id": 4,
+      "productId": 1,
+      "timestamp": "Oct 1 2017",
+      "user": "jj6391",
+      "rating": 5,
+      "content": "This foundation is seriously amazing. I have very oily skin so I try everything and anything to help it out but can never really find anything that helps it. This honestly is heaven sent to people who have skin like me and want a foundation that can be a light cover or full cover."
+    },
+    {
+      "id": 5,
+      "productId": 1,
+      "timestamp": "Mar 5 2018",
+      "user": "dreyes7",
+      "rating": 2,
+      "content": "It’s almost like a sheer coverage and if you try to add another coat of foundation it makes your pores look so clogged even with the pore toner. Doesn’t blend well and the color is a tad bit too yellow."
+    },
+    {
+      "id": 6,
+      "productId": 2,
+      "timestamp": "Mar 22 2018",
+      "user": "ylgirl",
+      "rating": 3,
+      "content": "I really wanted to love this but it just sat on top of skin! Also, the next day I had an allergic reactions - a red patch by my eye. Back to my holy grail, the EL Double Wear!"
+    },
+    {
+      "id": 7,
+      "productId": 2,
+      "timestamp": "Oct 23 2017",
+      "user": "dizzyl",
+      "rating": 5,
+      "content": "I've only worn this once now, but I wanted to write a review for any other porcelain peeps out there wondering what shade to order. I lucked out with Angel Food because it matches me quite well. I'm around NW10 in MAC terms, R210 in MUFE Ultra HD, Fair Beige in Tarte AC, and I can wear Swan in TF BtW (but it's more yellow than I prefer)."
+    },
+    {
+      "id": 8,
+      "productId": 2,
+      "timestamp": "Mar 12 2018",
+      "user": "sydhick",
+      "rating": 5,
+      "content": "I have super dry skin and always have such a hard time finding a full coverage foundation that doesn't dry my skin out. I love this one!"
+    },
+    {
+      "id": 9,
+      "productId": 3,
+      "timestamp": "Aug 3, 2016",
+      "user": "turtlemcturtle",
+      "rating": 5,
+      "content": "I hated this foundation at first, but I really started to love it a lot. There's sooo many shades to choose from, and I'm really pale, but I managed to find a good match. It looks really natural but has good coverage too."
+    },
+    {
+      "id": 10,
+      "productId": 3,
+      "timestamp": "Aug 3, 2016",
+      "user": "turtlemcturtle",
+      "rating": 5,
+      "content": "I hated this foundation at first, but I really started to love it a lot. There's sooo many shades to choose from, and I'm really pale, but I managed to find a good match. It looks really natural but has good coverage too."
+    },
+    {
+      "id": 11,
+      "productId": 4,
+      "timestamp": "Sep 17 2017",
+      "user": "Applejaxx85",
+      "rating": 5,
+      "content": "Seriously one of the prettiest foundations I've tried. It is similar to Dior forever flawless perfection foundation but a little more sheer. It's like your skin, but better. Love it!"
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 13,
+      "productId": 4,
+      "timestamp": "Nov 2 2017",
+      "user": "itsVickyAlesia",
+      "rating": 4,
+      "content": "I have combo - mostly dry skin. When I first used this, I did see the foundation becoming 'patchy' on the dry areas. The product is so fluid and the coverage is amazing. Recommendation for dry skin - I'd highly recommend the Clinque Moisture Surge as a moisturizer followed by the Two Face Hangover Primer. This combo works great for my skin and lets the foundation do it's job properly. "
+    },
+    {
+      "id": 14,
+      "productId": 5,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 15,
+      "productId": 6,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 16,
+      "productId": 7,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 17,
+      "productId": 8,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 18,
+      "productId": 9,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 19,
+      "productId": 11,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 20,
+      "productId": 12,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 21,
+      "productId": 12,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 22,
+      "productId": 13,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 23,
+      "productId": 14,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 24,
+      "productId": 15,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 25,
+      "productId": 16,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 26,
+      "productId": 17,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 27,
+      "productId": 17,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 28,
+      "productId": 18,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 29,
+      "productId": 19,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    },
+    {
+      "id": 30,
+      "productId": 20,
+      "timestamp": "Dec 27 2017",
+      "user": "sega15",
+      "rating":1,
+      "content": "i tried multiple primers with this product. nothing helped with the way this emphasizes dry patches or makes me have flakey skin. not even if i moisturize heavily before hand. when i later concealer over top, or even without, the product slips and moves and creates holes in the coverage. would not recommend"
+    }
+  ]
+}

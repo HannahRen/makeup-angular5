@@ -1,0 +1,53 @@
+<div class="thumbnail">
+  <img src="{{product?.avatar}}" />
+  <div>
+    <h4 class="pull-right">C$ {{product?.price}}</h4>
+    <h4>{{product?.title}}</h4>
+    <p>{{product?.desc}}</p>
+  </div>
+  <div>
+    <p class="pull-right">
+    <span class="glyphicon heart"
+          [class.glyphicon-heart]="isLove===true"
+          [class.glyphicon-heart-empty]="isLove===false"
+          (click)="isLove=!isLove"></span>
+    </p>
+    <p>
+      <app-stars [rating]="product?.rating"></app-stars>
+    </p>
+  </div>
+</div>
+<div class="well">
+  <h4>Reviews</h4>
+  <div>
+    <button class="btn btn-success" (click)="isCommentHide = !isCommentHide">Write a review</button>
+    <p class="pull-right">
+      {{comments?.length}} Reviews
+    </p>
+  </div>
+  <div [hidden]="isCommentHide">
+    <hr />
+    <div>
+      <app-stars [readonly]="false" [(rating)]="newRating"></app-stars>
+    </div>
+    <div>
+      <textarea [(ngModel)]="newComment"></textarea>
+    </div>
+    <div>
+      <button class="btn btn-primary" (click)="addComment()">Submit</button>
+    </div>
+  </div>
+
+  <div class="row" *ngFor="let comment of comments">
+    <hr />
+    <div class="col-md-12">
+      <app-stars [rating]="comment.rating"></app-stars>
+      <span><i class="glyphicon glyphicon-user"></i> {{comment.user}}</span>
+      <span class="pull-right">{{comment.timestamp}}</span>
+      <p></p>
+      <p>
+        {{comment.content}}
+      </p>
+    </div>
+  </div>
+</div>
